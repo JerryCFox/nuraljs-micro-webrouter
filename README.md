@@ -1,2 +1,2 @@
-# nuraljs-module-webrouter
-nuraljs-webrouter
+# nuraljs-micro-webrouter
+nuraljs-micro-webrouter
